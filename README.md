@@ -7,4 +7,4 @@ pracy jako programista.</p>
 <p>Poza programowaniem mam jeszcze kilka takich małych obsesji ("obsesyjek"). Jest to m.in. literatura rosyjska, kinematografia oraz gry komputerowe. Żywo mnie interesują również memy, które uważam, poza ich walorami humorystycznymi, za ciekawe zjawisko społeczne oraz formę sztuki. Poza tym absolutnie uwielbiam koty.</p>
 
 
-[hi](image0.gif)
+![hi](image0.gif)
