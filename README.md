@@ -4,4 +4,6 @@
 pracy jako programista.</p>
 
 <h3>Kilka ciekawszych słów o mnie</h3>
-<p>Poza programowaniem mam jeszcze kilka takich małych obsesji ("obsesyjek"). Jest to m.in. literatura rosyjska, kinematografia oraz gry komputerowe</p>
+<p>Poza programowaniem mam jeszcze kilka takich małych obsesji ("obsesyjek"). Jest to m.in. literatura rosyjska, kinematografia oraz gry komputerowe. Żywo mnie interesują również memy, które uważam, poza ich walorami humorystycznymi, za ciekawe zjawisko społeczne oraz formę sztuki. Poza tym absolutnie uwielbiam koty.</p>
+
+<img src="image0.gif>
